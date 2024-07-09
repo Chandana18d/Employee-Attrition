@@ -44,4 +44,4 @@ The following machine learning models were used to predict employee attrition:
 
 ## References
 ![](https://github.com/Chandana18d/Employee-Attrition/blob/main/img1.png)
-![]()
+![](https://github.com/Chandana18d/Employee-Attrition/blob/main/img2.png)
